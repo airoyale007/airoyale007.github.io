@@ -1,0 +1,17 @@
+{
+"companyName": "Madalin Games",
+"productName": "Madalin Cars Multiplayer",
+"dataUrl": "https://tbg95.pages.dev/madalin-stunt-cars-3/7d7b82eb5e1c0ce8feedf2e1323e904d.unityweb",
+"asmCodeUrl": "https://blackboro.github.io/madalin/madalin-stunt-cars-3/9b295d23076674c38dbcfccd30746d6a.unityweb",
+"asmMemoryUrl": "https://blackboro.github.io/madalin/madalin-stunt-cars-3/4d451a766092c974a014877a34ad2f00.unityweb",
+"asmFrameworkUrl": "https://blackboro.github.io/madalin/madalin-stunt-cars-3/cf0bec62445ad7dcdbd3523e8a04bab6.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "https://pictures.topspeed.com/IMG/crop/201910/madalin-stunt-cars-3-1_800x0w.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"totalFile": 2,
+"size": 45346425,
+"split_size": 22673213
+}

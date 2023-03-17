@@ -1,0 +1,151 @@
+<linker>
+  <assembly fullname="Unity.Addressables, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.AddressableAssets.Addressables" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null" preserve="all">
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.AtlasSpriteProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.InstanceProvider" preserve="all" />
+    <type fullname="UnityEngine.ResourceManagement.ResourceProviders.SceneProvider" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GameObject" preserve="all" />
+    <type fullname="UnityEngine.Transform" preserve="all" />
+    <type fullname="UnityEngine.Camera" preserve="all" />
+    <type fullname="UnityEngine.Material" preserve="all" />
+    <type fullname="UnityEngine.MeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.Texture2D" preserve="all" />
+    <type fullname="UnityEngine.MeshFilter" preserve="all" />
+    <type fullname="UnityEngine.Mesh" preserve="all" />
+    <type fullname="UnityEngine.Shader" preserve="all" />
+    <type fullname="UnityEngine.Cubemap" preserve="all" />
+    <type fullname="UnityEngine.RenderSettings" preserve="all" />
+    <type fullname="UnityEngine.Light" preserve="all" />
+    <type fullname="UnityEngine.Object" preserve="all" />
+    <type fullname="UnityEngine.FlareLayer" preserve="all" />
+    <type fullname="UnityEngine.SkinnedMeshRenderer" preserve="all" />
+    <type fullname="UnityEngine.LightmapSettings" preserve="all" />
+    <type fullname="UnityEngine.LODGroup" preserve="all" />
+    <type fullname="UnityEngine.LightProbeGroup" preserve="all" />
+    <type fullname="UnityEngine.RectTransform" preserve="all" />
+    <type fullname="UnityEngine.LightProbes" preserve="all" />
+    <type fullname="UnityEngine.LightingSettings" preserve="all" />
+    <type fullname="UnityEngine.Sprite" preserve="all" />
+    <type fullname="UnityEngine.U2D.SpriteAtlas" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.PhysicsModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Rigidbody" preserve="all" />
+    <type fullname="UnityEngine.MeshCollider" preserve="all" />
+    <type fullname="UnityEngine.BoxCollider" preserve="all" />
+    <type fullname="UnityEngine.SphereCollider" preserve="all" />
+    <type fullname="UnityEngine.CapsuleCollider" preserve="all" />
+    <type fullname="UnityEngine.PhysicMaterial" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AudioModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.AudioListener" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.AnimationModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Animator" preserve="all" />
+    <type fullname="UnityEngine.AnimationClip" preserve="all" />
+    <type fullname="UnityEngine.Avatar" preserve="all" />
+    <type fullname="UnityEngine.RuntimeAnimatorController" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.UI.Text" preserve="all" />
+    <type fullname="UnityEngine.UI.Image" preserve="all" />
+    <type fullname="UnityEngine.UI.GraphicRaycaster" preserve="all" />
+    <type fullname="UnityEngine.UI.ScrollRect" preserve="all" />
+    <type fullname="UnityEngine.UI.Button" preserve="all" />
+    <type fullname="UnityEngine.UI.Shadow" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.EventSystem" preserve="all" />
+    <type fullname="UnityEngine.UI.InputField" preserve="all" />
+    <type fullname="UnityEngine.UI.ContentSizeFitter" preserve="all" />
+    <type fullname="UnityEngine.UI.Mask" preserve="all" />
+    <type fullname="UnityEngine.UI.GridLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.Slider" preserve="all" />
+    <type fullname="UnityEngine.UI.HorizontalLayoutGroup" preserve="all" />
+    <type fullname="UnityEngine.UI.CanvasScaler" preserve="all" />
+    <type fullname="UnityEngine.EventSystems.StandaloneInputModule" preserve="all" />
+    <type fullname="UnityEngine.UI.Outline" preserve="all" />
+    <type fullname="UnityEngine.UI.LayoutElement" preserve="all" />
+    <type fullname="UnityEngine.UI.Scrollbar" preserve="all" />
+    <type fullname="UnityEngine.UI.VerticalLayoutGroup" preserve="all" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="SelectionBaseGameObject" preserve="all" />
+    <type fullname="UIScrollView" preserve="all" />
+    <type fullname="LPGsToCombine" preserve="all" />
+    <type fullname="UIScrollBar" preserve="all" />
+    <type fullname="UIPlayTween" preserve="all" />
+    <type fullname="UIEventListener" preserve="all" />
+    <type fullname="VehicleCamera" preserve="all" />
+    <type fullname="PhotonChatUI.ChatLoginPanelUI" preserve="all" />
+    <type fullname="PhotonChatUI.Chat" preserve="all" />
+    <type fullname="UICenterOnClick" preserve="all" />
+    <type fullname="MSC_GameManager" preserve="all" />
+    <type fullname="AmplifyColorEffect" preserve="all" />
+    <type fullname="TweenPosition" preserve="all" />
+    <type fullname="PhotonView" preserve="all" />
+    <type fullname="UIPanel" preserve="all" />
+    <type fullname="AnimatorsAnimationState" preserve="all" />
+    <type fullname="PhotonChatUI.ChatEmoticonsSelectorUI" preserve="all" />
+    <type fullname="PhotonChatUI.ChatPanelUI" preserve="all" />
+    <type fullname="PhotonChatUI.ChatUI" preserve="all" />
+    <type fullname="UIWrapContent" preserve="all" />
+    <type fullname="UIGrid" preserve="all" />
+    <type fullname="Skidmarks" preserve="all" />
+    <type fullname="LUTTextures" preserve="all" />
+    <type fullname="UIEventTrigger" preserve="all" />
+    <type fullname="UIButton" preserve="all" />
+    <type fullname="UICamera" preserve="all" />
+    <type fullname="AddCustomProbes" preserve="all" />
+    <type fullname="UIWidget" preserve="all" />
+    <type fullname="UIDragScrollView" preserve="all" />
+    <type fullname="PhotonChatUI.ChatConnectionStatusUI" preserve="all" />
+    <type fullname="UILabel" preserve="all" />
+    <type fullname="ManageChatWindow" preserve="all" />
+    <type fullname="Density_RandomValue" preserve="all" />
+    <type fullname="Lod3AudienceLookAtCar" preserve="all" />
+    <type fullname="MainCam_LayerCullDistance" preserve="all" />
+    <type fullname="PhotonChatUI.ChatDockUI" preserve="all" />
+    <type fullname="AudienceLookAtCar" preserve="all" />
+    <type fullname="UIRoot" preserve="all" />
+    <type fullname="SpawnPointDev" preserve="all" />
+    <type fullname="ChannelNameInputField" preserve="all" />
+    <type fullname="PlayerInGame" preserve="all" />
+    <type fullname="PlayerCarTransform" preserve="all" />
+    <type fullname="MessagesInputField" preserve="all" />
+    <type fullname="NGUI_Methods_Game" preserve="all" />
+    <type fullname="Fullscreen" preserve="all" />
+    <type fullname="GroupDistanceToPlayerCar" preserve="all" />
+    <type fullname="HideWhenPlaying" preserve="all" />
+    <type fullname="UICenterOnChild" preserve="all" />
+    <type fullname="UISprite" preserve="all" />
+    <type fullname="PhotonChatUI.ChatDockToolbarButtonUI" preserve="all" />
+    <type fullname="NGUIAtlas" preserve="all" />
+    <type fullname="UIAtlas" preserve="all" />
+    <type fullname="PhotonChatUI.ChatChannelUI" preserve="all" />
+    <type fullname="PhotonChatUI.ChatChannelMessageUI" preserve="all" />
+    <type fullname="UIFont" preserve="all" />
+    <type fullname="PhotonChatUI.ChatFloatingDockUI" preserve="all" />
+  </assembly>
+  <assembly fullname="Unity.ProBuilder, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.ProBuilder.ProBuilderMesh" preserve="all" />
+  </assembly>
+  <assembly fullname="Assembly-CSharp-firstpass, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityStandardAssets.Utility.FPSCounter" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.UIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.CanvasRenderer" preserve="all" />
+    <type fullname="UnityEngine.Canvas" preserve="all" />
+    <type fullname="UnityEngine.CanvasGroup" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.IMGUIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.GUISkin" preserve="all" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextRenderingModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="UnityEngine.Font" preserve="all" />
+  </assembly>
+</linker>

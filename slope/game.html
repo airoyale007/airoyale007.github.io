@@ -1,0 +1,124 @@
+
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <title>Slope - 77GAMES.io</title>
+    <meta name="description" content="Slope Game - slope unblocked wtf - TBG95">
+    
+    <meta property="og:image" content="slope.png" />
+    <meta name="robots" content="noindex,nofollow" />
+    <link rel="shortcut icon" href="TemplateData/icon16.png">
+    <link rel="stylesheet" href="TemplateData/style.css">
+
+    <style>
+       #unity-canvas {
+      position: absolute;
+      left: 0px;
+      top: 0px;
+      width: 100% !important;
+      height: 100% !important;
+    }
+      body{
+        background: url("bg.jpg");
+      }
+      a:-webkit-any-link {
+          color: -webkit-link;
+          cursor: pointer;
+          text-decoration: underline;
+      }
+      a{
+        cursor: pointer;
+      }
+      h1 {
+    position: absolute;
+    text-align: center;
+    z-index: 1;
+    background: #fff;
+    width: 100%;
+    top: 0;
+    margin: 0;
+}
+    </style>
+  <script type="text/javascript" src="https://66games.io/cloak.js"></script>
+  </head>
+  <body>
+
+    <!-- <h1 id="title">slope unblocked games wtf</h1> -->
+    <canvas id="unity-canvas"></canvas>
+    <div id="unity-loading-bar">
+      <div id="unity-logo"></div>
+      <div id="unity-progress-bar-empty">
+        <div id="unity-progress-bar-full"></div>
+      </div>
+    </div>
+    <script>
+
+      var buildUrl = "Build";
+      var loaderUrl = buildUrl + "/SlopeBuild.loader.js";
+      var config = {
+        dataUrl: buildUrl + "/SlopeBuild.data",
+        frameworkUrl: buildUrl + "/SlopeBuild.framework.js",
+        codeUrl: buildUrl + "/SlopeBuild.wasm",
+        streamingAssetsUrl: "StreamingAssets",
+        companyName: "Y8",
+        productName: "Slope",
+        productVersion: "1.2",
+		matchWebGLToCanvasSize: true
+      };
+
+      var container = document.querySelector("#unity-container");
+      var canvas = document.querySelector("#unity-canvas");
+      var loadingBar = document.querySelector("#unity-loading-bar");
+      var progressBarFull = document.querySelector("#unity-progress-bar-full");
+      var fullscreenButton = document.querySelector("#unity-fullscreen-button");
+      var mobileWarning = document.querySelector("#unity-mobile-warning");
+
+      // By default Unity keeps WebGL canvas render target size matched with
+      // the DOM size of the canvas element (scaled by window.devicePixelRatio)
+      // Set this to false if you want to decouple this synchronization from
+      // happening inside the engine, and you would instead like to size up
+      // the canvas DOM size and WebGL render target sizes yourself.
+      // config.matchWebGLToCanvasSize = false;
+
+      if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
+        container.className = "unity-mobile";
+        // Avoid draining fillrate performance on mobile devices,
+        // and default/override low DPI mode on mobile browsers.
+        mobileWarning.style.display = "block";
+        setTimeout(() => {
+          mobileWarning.style.display = "none";
+        }, 5000);
+      } else {
+        canvas.style.width = "960px";
+        canvas.style.height = "600px";
+      }
+      loadingBar.style.display = "block";
+	  var myGameInstance = null;
+      var script = document.createElement("script");
+      script.src = loaderUrl;
+      script.onload = () => {
+        createUnityInstance(canvas, config, (progress) => {
+          progressBarFull.style.width = 100 * progress + "%";
+        }).then((unityInstance) => {
+		  myGameInstance = unityInstance;
+          loadingBar.style.display = "none";
+          /*fullscreenButton.onclick = () => {
+				unityInstance.SetFullscreen(1);
+			  };*/
+        }).catch((message) => {
+          alert(message);
+        });
+      };
+      document.body.appendChild(script);
+    </script>
+    <script type="text/javascript" src="js/gameBreakBeta.js"></script>
+    <script type="text/javascript">
+      function hiddenH1(){
+        document.getElementById("title").style.display = "none";
+      }
+      setTimeout(hiddenH1, 30000);
+    </script>
+  </body>
+</html>
