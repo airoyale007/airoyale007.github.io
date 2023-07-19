@@ -1,0 +1,45 @@
+ManifestFileVersion: 0
+CRC: 1573144692
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: fb040f30d3dc09a19082a660b5a34fc1
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8477f344e0e74b2cf5809555484e0cd1
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 220
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+Assets:
+- Assets/Base/Maps/Resources/maps/bloxmenu22/map_bloxmenu22.unity
+Dependencies:
+- E:/PROJECTS3/blox/AssetBundles/WebGLMaps/sharedres

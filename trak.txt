@@ -1,0 +1,15 @@
+
+<script type="text/javascript" src="https://76ezgames.com/controls.js"></script>
+	
+
+<meta name="google-site-verification" content="nd_g4X8f2o74PCy1eH_or-4PPMokpdsX8YhUzBm1y24" />
+<meta name="msvalidate.01" content="182C2A642F6CEB66E5E950FB7B3F7871" />
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-9SMC2F22T4"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-9SMC2F22T4');
+</script>

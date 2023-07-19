@@ -1,0 +1,57 @@
+ManifestFileVersion: 0
+CRC: 1166696737
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 07c13671d3384f1ffd1560f425cf659c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 6bc199715f011c7c137d935a09087c95
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 29
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 501923ddb8f5c7a4ab7603a347b05591, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+- Class: 363
+  Script: {instanceID: 0}
+Assets:
+- Assets/Addon/Maps/Resources/maps/bloxdev/map_bloxdev.unity
+Dependencies:
+- E:/PROJECTS3/blox/AssetBundles/WebGLMaps/sharedres

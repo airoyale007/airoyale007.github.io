@@ -1,0 +1,51 @@
+ManifestFileVersion: 0
+CRC: 2416794059
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5fb173e0d0902d2f5cf2647eab090d91
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e120b13dde73622eb1f097a095b737bb
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 29
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 18708e53ee07d0d4a8e463f8a5e44d78, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+- Class: 363
+  Script: {instanceID: 0}
+Assets:
+- Assets/Addon/Maps/Resources/maps/bloxdust/map_bloxdust.unity
+Dependencies:
+- E:/PROJECTS3/blox/AssetBundles/WebGLMaps/sharedres

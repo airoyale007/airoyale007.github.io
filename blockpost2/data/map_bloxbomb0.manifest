@@ -1,0 +1,47 @@
+ManifestFileVersion: 0
+CRC: 467611412
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2da24bf59be3214a016950bd735e2061
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 32d29b7524fc9c99bfb216ff2df19099
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 29
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+- Class: 363
+  Script: {instanceID: 0}
+Assets:
+- Assets/Addon/Maps/Resources/maps/bloxbomb0/map_bloxbomb0.unity
+Dependencies:
+- E:/PROJECTS3/blox/AssetBundles/WebGLMaps/sharedres

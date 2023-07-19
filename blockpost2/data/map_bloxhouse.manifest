@@ -1,0 +1,59 @@
+ManifestFileVersion: 0
+CRC: 2753895454
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: c3c944acf955772a7c4a6e0b03cebe1d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e5988c0f5ba1fdab3457973ebea6b209
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 29
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: aab135456193ad145864ecbcde858764, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 317a86d5ffbdbd54c91223064a2ff2d9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a3deb6d98d76b374db458d3b8761f42b, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+- Class: 363
+  Script: {instanceID: 0}
+Assets:
+- Assets/Addon/Maps/Resources/maps/bloxhouse/map_bloxhouse.unity
+Dependencies:
+- E:/PROJECTS3/blox/AssetBundles/WebGLMaps/sharedres
