@@ -10,7 +10,7 @@ Choose from our biggest unblocked list avaliable for playing at top speed 1gbps 
 
 
 
-1. <a href="https://classroom6x.lol/play/riddle-school-5">Riddle School 5 Unblocked Classroom6x</a> <br>
+1. <a href="https://classroom6x.lol/play/janissary-battles">Janissary Battles Unblocked Classroom6x</a> <br>
 2. <a href="https://classroom6x.lol/play/temple-run-2">Temple Run 2 Unblocked Classroom6x</a> <br>
 3. <a href="https://classroom6x.lol/play/aquaparkio">Aquapark.io Unblocked Classroom6x</a> <br>
 4. <a href="https://classroom6x.lol/play/crossy-road">Crossy Road Unblocked Classroom6x</a> <br>
@@ -138,7 +138,7 @@ Choose from our biggest unblocked list avaliable for playing at top speed 1gbps 
 126. <a href="https://classroom6x.lol/play/granny">Granny Unblocked Classroom6x</a> <br>
 127. <a href="https://classroom6x.lol/play/choppy-orc">Choppy Orc Unblocked Classroom6x</a> <br>
 128. <a href="https://classroom6x.lol/play/happy-rider">Happy Rider Unblocked Classroom6x</a> <br>
-129. <a href="https://classroom6x.lol/play/janissary-battles">Janissary Battles Unblocked Classroom6x</a> <br>
+129.  <a href="https://classroom6x.lol/play/riddle-school-5">Riddle School 5 Unblocked Classroom6x</a> <br> 
 130. <a href="https://classroom6x.lol/play/you-vs-100-skibidi-toilets">You vs 100 Skibidi Toilets Unblocked Classroom6x</a> <br>
 131. <a href="https://classroom6x.lol/play/police-pursuit-2">Police Pursuit 2 Unblocked Classroom6x</a> <br>
 
