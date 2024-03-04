@@ -4,9 +4,6 @@ Play only the best unblocked gamest online at:
 
 https://76ezgames.com - <a href="https://76ezgames.com">Unblocked Games 6x</a>
 
-
-[![Play Unblocked Classroom6x Games](https://github.com/airoyale007/airoyale007.github.io/blob/main/classroom6xlol.jpg)](https://76ezgames.com)
-
 Choose from our biggest unblocked list avaliable for playing at top speed 1gbps and proxy servers,check out our game list below and play games:
 
 
