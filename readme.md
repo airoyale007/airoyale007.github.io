@@ -2,7 +2,7 @@
 MINI HTML5 Unblocked Games EZ List for playing games online without need to extreme powerfull computer
 and extreme dsl speeds
 
-<a  href="https://ezclasswork.com">MINI HTML5 EZCLASSWORK Games</a>
+<a  href="https://ezclasswork.com">MINI HTML5 EZCLASSWORK Games</a> 
 
 Check out some of popular games at <a rel="nofollow" href="https://ezclasswork.com">EZClasswork.com</a> list below and play games instantly:
 
@@ -98,4 +98,7 @@ Check out some of popular games at <a rel="nofollow" href="https://ezclasswork.c
 128. <a href="https://ezclasswork.com/play/happy-rider">Happy Rider EZCLASSWORK.com</a> <br>
 129.  <a href="https://ezclasswork.com/play/riddle-school-5">Riddle School 5 EZCLASSWORK.com</a> <br> 
 130. <a href="https://ezclasswork.com/play/you-vs-100-skibidi-toilets">You vs 100 Skibidi Toilets EZCLASSWORK.com</a> <br>
-131. 
+
+If you are looking for other more popular unblocked games you can play them at 
+ <a href="https://pizzaeditiongames.com">The Pizza Edition Games</a> <br
+
