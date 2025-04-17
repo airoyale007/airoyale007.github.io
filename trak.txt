@@ -1,5 +1,5 @@
 
-<script type="text/javascript" src="https://76ezgames.com/controls.js"></script>
+<script type="text/javascript" src="https://classroom10x.com/controls.js"></script>
 	
 
 <meta name="google-site-verification" content="nd_g4X8f2o74PCy1eH_or-4PPMokpdsX8YhUzBm1y24" />
